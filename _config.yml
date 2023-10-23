@@ -23,7 +23,7 @@ navbar-links:
   About me: "info"
   Publications: "pubs"
   Projects: "projects"
-  Competition: competitions"
+  Competition: "competitions"
   
   # About Me: "aboutme"
   # Resources:

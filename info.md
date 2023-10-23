@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Infomation
-subtitle:
+subtitle: 個人資料
 ---
 
 ## Hui-Rou, Zhong 鍾惠柔
@@ -9,7 +9,7 @@ subtitle:
 
 
 ## Contacts 聯絡資訊
-- Email: phoebe1998 <i class="fa fa-at" aria-hidden="true"></i> gmail.com
+- Email: phoebe199@gmail.com
 
 
 ## Education 學歷

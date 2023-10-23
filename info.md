@@ -6,11 +6,11 @@ subtitle: 個人資料
 
 ## Hui-Rou, Zhong 鍾惠柔
 - 1998
-
+<br/>
 
 ## Contacts 聯絡資訊
 - Email: phoebe199@gmail.com
-
+<br/>
 
 ## Education 學歷
 - 元智大學資訊工程學系碩士班, 碩士, 2021/09 ~ 2023/06
